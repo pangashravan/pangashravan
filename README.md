@@ -40,9 +40,6 @@ Backend-focused Python Developer with strong interest in:
 Currently improving:
 - FastAPI
 - Async Python
-- Docker
-- Vector Databases
-- AI Backend Systems
 
 ---
 
@@ -72,7 +69,9 @@ Configured:
 ---
 
 ## Goals for 2026
-
+- Docker
+- Vector Databases
+- AI Backend Systems
 - Become production-ready backend engineer
 - Build AI-powered backend systems
 - Contribute to real-world engineering teams
